@@ -1,7 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
-import { Czedidrpmt } from './entities/Czedidrpmt';
 import { Czedisgamt } from './entities/Czedisgamt';
 import { Czsugmngmt } from './entities/Czsugmngmt';
 

@@ -24,7 +24,6 @@ export class EdiController {
       '09',
     ];
     if (chapter) {
-      console.log('1');
       arrayChapter = chapter.split(',');
     }
 
